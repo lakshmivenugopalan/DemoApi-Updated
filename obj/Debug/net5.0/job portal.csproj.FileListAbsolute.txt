@@ -1,0 +1,45 @@
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\job portal.exe
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\job portal.deps.json
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\job portal.runtimeconfig.json
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\job portal.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\job portal.dll
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\ref\job portal.dll
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\job portal.pdb
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\source\repos\job portal\obj\Debug\net5.0\job portal.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\job portal\obj\Debug\net5.0\job portal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\job portal\obj\Debug\net5.0\job portal.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\job portal\obj\Debug\net5.0\job portal.AssemblyInfo.cs
+C:\Users\Admin\source\repos\job portal\obj\Debug\net5.0\job portal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\job portal\obj\Debug\net5.0\job portal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\source\repos\job portal\obj\Debug\net5.0\job portal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\job portal\obj\Debug\net5.0\staticwebassets\job portal.StaticWebAssets.Manifest.cache
+C:\Users\Admin\source\repos\job portal\obj\Debug\net5.0\staticwebassets\job portal.StaticWebAssets.xml
+C:\Users\Admin\source\repos\job portal\obj\Debug\net5.0\scopedcss\bundle\job portal.styles.css
+C:\Users\Admin\source\repos\job portal\obj\Debug\net5.0\job portal.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\job portal\obj\Debug\net5.0\job portal.csproj.CopyComplete
+C:\Users\Admin\source\repos\job portal\obj\Debug\net5.0\job portal.dll
+C:\Users\Admin\source\repos\job portal\obj\Debug\net5.0\ref\job portal.dll
+C:\Users\Admin\source\repos\job portal\obj\Debug\net5.0\job portal.pdb
+C:\Users\Admin\source\repos\job portal\obj\Debug\net5.0\job portal.genruntimeconfig.cache
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\DnsClient.dll
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Admin\source\repos\job portal\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
